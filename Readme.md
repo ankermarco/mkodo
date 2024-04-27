@@ -1,5 +1,11 @@
 Much appreciated for spending your time reading my code. I'll be so grateful for any feedbacks.
 
+# How to open this project
+Open MKLottery.xcworkspace using Xcode, that's all.
+Then select `MKLotterySwfitui` from the lists of schemes.
+And select the targeted simulator or device.
+finally click on the build and run button, you will see app is running.
+
 # Tasks completed
 
 ## Essential Tasks
