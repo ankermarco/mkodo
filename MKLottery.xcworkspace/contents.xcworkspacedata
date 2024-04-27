@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Readme.md">
+   </FileRef>
+   <FileRef
+      location = "group:MKLotterySwiftUI/MKLotterySwiftUI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MKStorage/MKStorage.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MKNetworking/MKNetworking.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MKLotteryCore/MKLotteryCore.xcodeproj">
+   </FileRef>
+</Workspace>
